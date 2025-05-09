@@ -1,0 +1,8 @@
+Các câu lệnh cơ bản:
+repository: kho chứa dl của git, có 2 loại repository:
+1. local repo: Kho ở trên máy của mình
+2. Remote repo: Kho online
+
+git init: tạo repository ở local
+git add . : đẩy tất cả file vào trong vùng nhớ
+git commit -m "..." : Đẩy từ vùng nhớ tamj thời vào local repo và đánh dấu 1 mốc lịch sử (snapshot) tại đây
